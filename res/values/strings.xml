@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Japan Candles</string>
+   
+    <string name="list_hammer">Hammer</string>
+    <string name="list_hanging_man">Hanging man</string>
+    <string name="list_bullish_engulfing">Bullish engulfing</string>
+    <string name="list_bearish_engulfing">Bearish engulfing</string>
+    <string name="list_dark_cloud_cover">Dark-cloud cover</string>
+    <string name="list_piercing_pattern">Piercing pattern</string>
+    <string name="list_morning_star">Morning star</string>
+    <string name="list_evening_star">Evening star</string>
+    <string name="list_abandoned_baby">Abandoned baby</string>
+    <string name="list_belt_hold_line">Belt-hold line</string>
+    <string name="list_advance_block">Advance block</string>
+    <string name="list_harami">Harami</string>
+    <string name="list_harami_cross">Harami cross</string>
+    <string name="list_inverted_hammer">Inverted hammer</string>
+    <string name="list_mat_hold_pattern">Mat-hold pattern</string>
+    <string name="list_one_neck_line">One-neck line</string>
+    <string name="list_shooting_star">Shooting star</string>
+    <string name="list_stalled_pattern">Stalled pattern</string>
+    <string name="list_tasuki_gaps">Tasuki gaps</string>
+    <string name="list_three_crows">Three crows</string>
+    <string name="list_three_methods">Three methods</string>
+    <string name="list_window">Window</string>
+    
+    <string name="details_back">Back</string>
+    
+    <string name="eula_title">License</string>
+	<string name="eula_accept">Accept</string>
+	<string name="eula_refuse">Refuse</string>
+    
+    <string name="details_html_header"><![CDATA[
+        <html>
+		<head>	
+			<style type="text/css">
+				img { float: left; padding-right: 3px; padding-bottom: 3px; }
+				img.rht { float: right; padding-left: 3px; padding-bottom: 3px; padding-top: 3px }
+				p { text-align: justify; font-size: 16pt; }
+			</style>
+		<head>
+		<body>
+    ]]></string>
+    <string name="details_html_footer"><![CDATA[
+        </body>
+        </html>
+    ]]></string>    
+    
+    <string name="details_hammer"><![CDATA[
+       	<h1>Hammer</h1>
+       	<p>
+       		<img src=\'file:///android_asset/hammer_128.png\'/> 
+       		<i>Hammer</i> — an important bottoming candlestick line. The hammer and the hanging man are both the same line, that is a small real body (green 
+       		or red) at the top of the session\'s range and a very long lower shadow with little or no upper shadow. When this line appears during 
+       		a downtrend it becomes a bullish hammer. For a classic hammer, the lower shadow should be at least twice the height of the real body.
+       	</p>
+	]]></string>
+	
+    <string name="details_hanging_man"><![CDATA[
+       	<h1>Hanging man</h1>
+       	<p>
+       		<img src=\'file:///android_asset/hanging_man_128.png\'/> 
+       		<i>Hanging man</i> — an important top reversal. The hanging man and the hammer are both the same type of candlestick line (i.e, a small real body (green or red), 
+       		with little or no upper shadow, at the top of the session\'s range and a very long lower shadow). But when this line appears during an uptrend, it becomes a 
+       		bearish hanging man. It signals the market has become vulnerable, but there should be bearish confirmation the next session (i.e., a red candlestick session with a 
+       		lower close or a weaker opening) to signal a top. In principle, the hanging man\'s lower shadow should be two or three times the height of the real body.
+       	</p>
+	]]></string>
+	
+    <string name="details_bullish_engulfing"><![CDATA[
+       	<h1>Bullish engulfing</h1>
+       	<p>
+       		<img src=\'file:///android_asset/bullish_engulfing_128.png\'/> 
+       		<i>Bullish engulfing</i> — pattern is comprised of a large green real body which engulfs a small red real body in a downtrend. The bullish engulfing pattern 
+       		is an important bottom reversal.
+       	</p>
+	]]></string>
+	
+    <string name="details_bearish_engulfing"><![CDATA[
+       	<h1>Bearish engulfing</h1>
+       	<p>
+       		<img src=\'file:///android_asset/bearish_engulfing_128.png\'/> 
+       		<i>Bearish engulfing</i> — a major top reversal pattern, occurs when selling pressure overwhelms buying pressure as reflected by a long red real 
+       		body engulfing a small green real body in an uptrend.
+       	</p>
+	]]></string>
+	
+    <string name="details_dark_cloud_cover"><![CDATA[
+       	<h1>Dark cloud cover</h1>
+       	<p>
+       		<img src=\'file:///android_asset/dark_cloud_cover_128.png\'/> 
+       		<i>Dark-cloud cover</i> — a bearish reversal signal. In an uptrend a long green candlestick is followed by a red candlestick that opens above the 
+       		prior green candlestick\'s high. It then closes well into the green candlestick\'s real body.
+       	</p>
+	]]></string>
+	
+    <string name="details_piercing_pattern"><![CDATA[
+       	<h1>Piercing pattern</h1>
+       	<p>
+       		<img src=\'file:///android_asset/piercing_pattern_128.png\'/> 
+       		<i>Piercing pattern</i> — a bottom reversal signal. In a downtrend, a long red candlestick is followed by a gap lower during the next session. 
+       		This session finishes as a strong green candlestick which closes rnove than halfway into the prior red candlestick\'s real body. 
+       		Compare to the on-neck line, the in-neck line, and the thrusting line.
+       	</p>
+	]]></string>
+	
+    <string name="details_morning_star"><![CDATA[
+       	<h1>Morning star</h1>
+       	<p>
+       		<img src=\'file:///android_asset/morning_star_128.png\'/> 
+       		<i>Morning star</i> — a major bottom reversal pattern formed by three candlesticks. The first is a long red real body, the second is a small real body 
+       		(green or red) which gaps lower to form a star, the third is a green candlestick that closes well into the first session\'s red real body.
+       	</p>
+	]]></string>
+	
+    <string name="details_evening_star"><![CDATA[
+       	<h1>Evening star</h1>
+       	<p>
+       		<img src=\'file:///android_asset/evening_star_128.png\'/> 
+       		<i>Evening star</i> — a major top reversal pattern formed by three candlesticks. The first is a tall green real body, the second is a small real body (green or red) 
+       		which gaps higher to form a star, the third is a red candlestick which closes well into the first session\'s green real body.
+       	</p>
+	]]></string>
+	
+    <string name="details_abandoned_baby"><![CDATA[
+       	<h1>Abandoned baby</h1>
+       	<p>
+       		<img src=\'file:///android_asset/abandoned_baby_128.png\'/> 
+       		<i>Abandoned baby</i> — a very rare major top or bottom reversal signal. 
+       		It is comprised of a doji star which gaps away (including shadows) from the prior and following 
+       		session\'s candlesticks.
+       	</p>
+       	<p>
+       		<img alt="dsf" src=\'file:///android_asset/abandoned_baby1_128.png\' class=\'rht\'/> 
+       		The same as a Western island top or bottom in which the island session is also a doji.
+       	</p>
+	]]></string>
+	
+    <string name="details_advance_block"><![CDATA[
+       	<h1>Advance block</h1>
+       	<p>
+       		<img src=\'file:///android_asset/advance_block_128.png\'/> 
+       		<i>Advance block</i> — a variation on three green soldiers in which the last two soldiers (i.e., green real bodies) display weakening upside drive. 
+       		This weakness could be in the form of tall upper shadows or progressively smaller real bodies. It signifies a diminution of buying force or an increase in selling pressure.
+       	</p>
+	]]></string>
+	
+    <string name="details_belt_hold_line"><![CDATA[
+       	<h1>Belt-hold line</h1>
+       	<p>
+       		<img src=\'file:///android_asset/belt_hold_line_128.png\'/> 
+       		<i>Belt-hold line</i> — there are bullish and bearish belt holds. A bullish belt hold is a tall green candlestick that opens on its low. It is also called a green opening shaven bottom. 
+       		At a low price area, this is a bullish signal. A bearish belt hold is a long red candlestick which opens on its high. Also referred to as a red opening shaven head. 
+       		At a high price level, it is considered bearish.
+       	</p>
+	]]></string>
+	
+    <string name="details_harami"><![CDATA[
+       	<h1>Harami</h1>
+       	<p>
+       		<img src=\'file:///android_asset/harami_128.png\'/> 
+       		<i>Harami</i> — a two candlestick pattern in which a small real body holds within the prior session\'s unusually large real body. The harami 
+       		implies the immediately preceding trend is concluded and that the bulls and bears are now in a state of truce.
+       	</p>
+       	<p>
+       		<img alt="dsf" src=\'file:///android_asset/harami1_128.png\' class=\'rht\'/> 
+       		The color of the second real body can be green or red. Most often the second real body is the opposite color of the first real body.
+       	</p>
+	]]></string>
+	
+    <string name="details_harami_cross"><![CDATA[
+       	<h1>Harami cross</h1>
+       	<p>
+       		<img src=\'file:///android_asset/harami_cross_128.png\'/> 
+       		<i>Harami cross</i> — a harami with a doji on the second session instead of a small real body. An important top (bottom) reversal signal especially after a 
+       		tall green (red) candlestick line.
+       	</p>
+       	<p>
+       		<img alt="dsf" src=\'file:///android_asset/harami_cross1_128.png\' class=\'rht\'/> 
+       		It is also called a petrifying pattern.
+       	</p>
+	]]></string>
+	
+    <string name="details_inverted_hammer"><![CDATA[
+       	<h1>Inverted hammer</h1>
+       	<p>
+       		<img src=\'file:///android_asset/inverted_hammer_128.png\'/> 
+       		<i>Inverted hammer</i> — following a downtrend, this is a candlestick line that has a long upper shadow and a small real body at the lower end of 
+       		the session. There should be no, or very little, lower shadow. It has the same shape as the bearish shooting star, but when this line occurs 
+       		in a downtrend, it is a bullish bottom reversal signal with confirmation the next session (i.e., a green candlestick with a higher close or a higher opening).
+       	</p>
+	]]></string>
+	
+    <string name="details_mat_hold_pattern"><![CDATA[
+       	<h1>Mat-hold pattern</h1>
+       	<p>
+       		<img src=\'file:///android_asset/mat_hold_pattern_128.png\'/> 
+       		<i>Mat-hold pattern</i> — a bullish continuation pattern. A green candlestick is followed by a small red real body which gaps higher. Then there are two small red candlesticks 
+       		which are followed by a strong green candlestick (or a candlestick which gaps open above the last red candlestick).
+       	</p>
+	]]></string>
+	
+    <string name="details_one_neck_line"><![CDATA[
+       	<h1>One-neck line</h1>
+       	<p>
+       		<img src=\'file:///android_asset/one_neck_line_128.png\'/> 
+       		<i>On-neck line</i> — a red candlestick in a downtrend is followed by a small green candlestick whose close is near the low of the session of the red candlestick. 
+       		It is a bearish continuation pattern. The market should continue to move lower after the green candlestick\'s low is broken. 
+       		Compare to an in-neck line, a thrusting line, and a piercing pattern.
+       	</p>
+	]]></string>
+	
+    <string name="details_shooting_star"><![CDATA[
+       	<h1>Shooting star</h1>
+       	<p>
+       		<img src=\'file:///android_asset/shooting_star_128.png\'/> 
+       		<i>Shooting star</i> — a candlestick with a long upper shadow with little, or no lower shadow, and a small real body near the lows of the session that arises after an uptrend. 
+       		It is a bearish candlestick signal in an uptrend.
+       	</p>
+	]]></string>
+	
+    <string name="details_stalled_pattern"><![CDATA[
+       	<h1>Stalled pattern</h1>
+       	<p>
+       		<img src=\'file:///android_asset/stalled_pattern_128.png\'/> 
+       		<i>Stalled pattern</i> — a small green real body which is either above the prior stalled Pattern long green real body or near its top. Sometimes there is a short green candlestick 
+       		before the lone green one. At the emergence of the stalled pattern, the market\'s rally should stall. Also called a deliberation pattern.
+       	</p>
+	]]></string>
+	
+    <string name="details_tasuki_gaps"><![CDATA[
+       	<h1>Tasuki gaps</h1>
+       	<p>
+       		<img src=\'file:///android_asset/tasuki_gaps1_128.png\'/> 
+       		<i>Tasuki gaps</i> — there are downside and upside tasuki gaps. The downside tasuki gap is formed when, in a declining market, a red real body gaps lower. 
+       		This candlestick is followed by a green candlestick, of about the same size, which opens in the red session\'s real body and then closes above the red\'s real body. 
+       		It is a bearish continuation pattern.
+       	</p>
+       	<p>
+       		<img alt="dsf" src=\'file:///android_asset/tasuki_gaps_128.png\' class=\'rht\'/> 
+       		The upside tasuki gap is a bullish continuation pattern. It is formed when a green candlestick which gaps higher is followed by a red candlestick of about the same 
+       		size which opens within the green real body and closes under the green\'s real body. Tasuki gaps are rare.
+       	</p>
+	]]></string>
+	
+    <string name="details_three_crows"><![CDATA[
+       	<h1>Three crows</h1>
+       	<p>
+       		<img src=\'file:///android_asset/three_crows_128.png\'/> 
+       		<i>Three crows</i> — three relatively long consecutive red candlesticks which close near or on their lows. A top reversal at a high price level or after an extended rally.
+       	</p>
+	]]></string>
+	
+    <string name="details_three_methods"><![CDATA[
+       	<h1>Three methods</h1>
+       	<p>
+       		<img src=\'file:///android_asset/three_methods_128.png\'/> 
+       		<i>Three methods</i> — there are two types. The first is the falling three methods which is a bearish continuation pattern. It is comprised of five lines. 
+       		A long red real body is followed by three small, usually green, real bodies which hold within the first session\'s range. 
+       		Then a red candlestick closes at a new low for the move.
+       	</p>
+       	<p>
+       		<img alt="dsf" src=\'file:///android_asset/three_methods1_128.png\' class=\'rht\'/> 
+       		The second is the rising three methods which is a bullish continuation pattern. A tall green candlestick preceded three small, 
+       		usually red, real bodies that hold within the green candlestick\'s range. 
+       		The fifth line of this pattern is a strong green candlestick that closes at a new high for the move.
+       	</p>
+	]]></string>
+	
+    <string name="details_window"><![CDATA[
+       	<h1>Window</h1>
+       	<p>
+       		<img src=\'file:///android_asset/window_128.png\'/> 
+       		<i>Window</i> — the same as a Western gap. Windows are continuation patterns. When the market rallies and opens a window, there should be a pullback to that window. 
+       		The window should be support.
+       	</p>
+       	<p>
+       		<img alt="dsf" src=\'file:///android_asset/window1_128.png\' class=\'rht\'/> 
+       		The window should be support. If a window opens in a selloff, there should be a rally to the window. The window should be resistance. The Japanese expression is that 
+       		"the market goes to the window."
+       	</p>
+	]]></string>
+
+</resources>
